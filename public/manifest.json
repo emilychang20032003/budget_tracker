@@ -1,0 +1,17 @@
+{
+  "name": "Budget Buddy",
+  "short_name": "Budget Buddy",
+  "description": "A personal budgeting tracker for Taiwan daily spending.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08261D",
+  "theme_color": "#08261D",
+  "icons": [
+    {
+      "src": "/budget-buddy-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
